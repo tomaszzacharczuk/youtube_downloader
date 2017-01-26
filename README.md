@@ -4,7 +4,7 @@ Simple script for downloading high quality audio from youtube videos.
 # Useage
 In terminal (being in project's dir) run:
 
-python3 youtube_downloader --url 'youtube url to video' --download_path '/path/to/download/directory'
+python youtube_downloader --url 'youtube url to video' --download_path '/path/to/download/directory'
 
 optional arguments:
 
